@@ -1,7 +1,9 @@
 
-# Simon Game
+![alt text](https://github.com/LSX99/Simon-Game/blob/main/%F0%9F%9A%A6%F0%9F%9A%A5Simon_Game%F0%9F%9A%A5%F0%9F%9A%A6.png)
 
 Exciting game of lights and sounds. Repeat the correct sequence, win the game!
+
+![](https://github.com/LSX99/Simon-Game/blob/main/%F0%9F%9A%A6%F0%9F%9A%A5Simon_Game%F0%9F%9A%A5%F0%9F%9A%A6.png)
 
 # Project Details
 
